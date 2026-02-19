@@ -1,5 +1,17 @@
 # Hotel Booking Cancellation Prediction
 
+------------------------------------------------------------------------
+
+**Author: Rizan Pradiya, Gabriella Davintia**
+
+------------------------------------------------------------------------
+
+## External Links
+[Tableau](https://public.tableau.com/app/profile/rizan.pradiya/viz/HotelBookingDashboard_17715032390590/Dashboard1?publish=yes)
+[Streamlit](https://hotel-booking-demand-9avfybgwuaxxeyehauy47a.streamlit.app/#hotel-booking-cancellation-predictor)
+
+------------------------------------------------------------------------
+
 ## Summary
 
 Proyek ini menganalisis data pemesanan hotel untuk mendukung
