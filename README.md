@@ -27,8 +27,8 @@ Tujuan utama proyek ini adalah:
 ## Dataset
 
 -   hotel_bookings.csv\
-    Source: Hotel Booking Demand Dataset (Kaggle)
-
+**Source:** Jesse Mostipak – *Hotel booking demand* dataset on Kaggle  
+(https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data)
 ### Key Features
 
 -   hotel → Jenis hotel (City / Resort)
